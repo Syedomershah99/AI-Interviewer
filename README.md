@@ -4,15 +4,7 @@
 
 Welcome to AI Interviewer! 👏 AI Interviewer is a cutting-edge application powered by generative AI designed to conduct mock interviews. With the ability to analyze your uploaded resume and job descriptions, AI Interviewer generates tailored questions to enhance your interview preparation. You even have the flexibility to customize your own interviewing experience!
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-- [Features](#features)
-- [Upcoming Updates](#upcoming-updates)
-- [Feedback](#feedback)
-- [Contact](#contact)
-<!-- - [Acknowledgments](#acknowledgments) -->
 
 ## Overview
 
@@ -53,18 +45,6 @@ We are constantly working to improve AI Interviewer and bring you new features. 
 - Enhanced AI capabilities for even more realistic interviews.
 - Expanded question database for a wider range of industries and roles.
 - Improved voice interaction for a seamless experience.
-
-## Feedback
-
-We highly value your feedback! Your insights can help us enhance AI Interviewer. Please take a moment to fill out our [Feedback Form](https://docs.google.com/forms/d/13f4q03bk4lD7sKR7qZ8UM1lQDo6NhRaAKv7uIeXHEaQ/viewform?edit_requested=true).
-
-## Contact
-
-## Contact
-
-- GitHub: [jiatastic](https://github.com/jiatastic)
-
-<!-- ## Acknowledgments
 
 AI Interviewer is powered by a blend of advanced technologies:
 
